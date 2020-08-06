@@ -1,2 +1,2 @@
 # DeepeR
-Desenvolver algoritmos com o melhor desempenho para os problemas do cotidiano
+Desenvolvimento de algoritmos de alto desempenho para problemas do cotidiano.
